@@ -7,7 +7,7 @@ public class BuildLetterTest {
 	@Test
 	public void test() {
 		
-		//BASIC FIRST LETTER 'A' FIRST LINE TEST
+		//BASIC FIRST LETTER 'A' FIRST LINE TEST (minimum required)
 		
 		Letters ltrs = new Letters();
 		
